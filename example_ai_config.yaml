@@ -1,0 +1,4 @@
+ai_service: "ollama"
+model: "llama2"
+api_key: "api_key"
+base_url: "url"
